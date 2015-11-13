@@ -3,5 +3,5 @@ def f(x, y):
     Of which the first element is x*y and the second
     is x+y."""
     prod = x*y
-    sum = x*y
-    return prod, sum
+    sum_ = x*y
+    return prod, sum_
